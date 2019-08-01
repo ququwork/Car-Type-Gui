@@ -23,3 +23,10 @@
  2. [car_540000.weights](https://pan.baidu.com/s/1XmzjvCgOrrVv0NWTt4Fm3g)
  
  替换掉源码目录中名字相同的这两个文件的对应的空文件
+ 
+ 
+ ## Demo 
+ 
+ ![操作界面](./test_result/GUI.JPG)
+ 
+ ![识别结果](./test_result/demo.JPG)
